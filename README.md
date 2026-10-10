@@ -26,4 +26,4 @@ Built like an enterprise project — architecture decision records, separated sc
 ### Languages
 Spanish (native) · English (fluent) · German (B1 certified, DTZ — B2 course in progress)
 
-📫 [LinkedIn](https://www.linkedin.com/in/natalia-mueller-apex) · [natalia.lillo1900@hotmail.com](mailto:natalia.lillo1900@hotmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/natalia-mueller-apex) · [natalia.mueller.dev@gmail.com](mailto:natalia.mueller.dev@gmail.com)
