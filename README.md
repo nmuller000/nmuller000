@@ -17,7 +17,7 @@
 - **Delivery:** SQLcl projects (Liquibase) · Git / GitHub · Jenkins · SVN · Postman
 
 ### Featured project
-**[EuroMarket AI-Driven Compliance & Claims Manager](https://github.com/nmuller000/ia-apex-project)**
+**[EuroMarket AI-Driven Compliance & Claims Manager](https://github.com/nmuller000/euromarket-claims-manager)**
 
 A CMR road-freight claims application on **Oracle AI Database 26ai** and **APEX**: claims, documents and deadlines in one place, multilingual legal search with in-database AI.
 
@@ -26,4 +26,4 @@ Built like an enterprise project — architecture decision records, separated sc
 ### Languages
 Spanish (native) · English (fluent) · German (B1 certified, DTZ — B2 course in progress)
 
-📫 [LinkedIn](https://www.linkedin.com/in/natalia-m%C3%BCller-964b43a) · [natalia.lillo1900@hotmail.com](mailto:natalia.lillo1900@hotmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/natalia-mueller-apex) · [natalia.lillo1900@hotmail.com](mailto:natalia.lillo1900@hotmail.com)
